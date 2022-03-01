@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-01T20:44:16 ICT" name="Default suite" finished-at="2022-03-01T20:44:23 ICT" duration-ms="6487">
+    <groups>
+    </groups>
+    <test started-at="2022-03-01T20:44:16 ICT" name="Default test" finished-at="2022-03-01T20:44:23 ICT" duration-ms="6487">
+      <class name="apiTestRunner.TestAPI">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:apiTestRunner.TestAPI@1649b0e6]" started-at="2022-03-01T20:44:17 ICT" name="setUp" finished-at="2022-03-01T20:44:18 ICT" duration-ms="1239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="basicSearch()[pri:0, instance:apiTestRunner.TestAPI@1649b0e6]" started-at="2022-03-01T20:44:18 ICT" name="basicSearch" finished-at="2022-03-01T20:44:21 ICT" duration-ms="3155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicSearch -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:apiTestRunner.TestAPI@1649b0e6]" started-at="2022-03-01T20:44:21 ICT" name="setUp" finished-at="2022-03-01T20:44:21 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchWithSetPageResult()[pri:1, instance:apiTestRunner.TestAPI@1649b0e6]" started-at="2022-03-01T20:44:21 ICT" name="searchWithSetPageResult" finished-at="2022-03-01T20:44:22 ICT" duration-ms="753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithSetPageResult -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:apiTestRunner.TestAPI@1649b0e6]" started-at="2022-03-01T20:44:22 ICT" name="setUp" finished-at="2022-03-01T20:44:22 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchWithPriceFilter()[pri:2, instance:apiTestRunner.TestAPI@1649b0e6]" started-at="2022-03-01T20:44:22 ICT" name="searchWithPriceFilter" finished-at="2022-03-01T20:44:22 ICT" duration-ms="539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithPriceFilter -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:apiTestRunner.TestAPI@1649b0e6]" started-at="2022-03-01T20:44:22 ICT" name="setUp" finished-at="2022-03-01T20:44:22 ICT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchAndSortResults()[pri:4, instance:apiTestRunner.TestAPI@1649b0e6]" started-at="2022-03-01T20:44:22 ICT" name="searchAndSortResults" finished-at="2022-03-01T20:44:23 ICT" duration-ms="676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAndSortResults -->
+      </class> <!-- apiTestRunner.TestAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
