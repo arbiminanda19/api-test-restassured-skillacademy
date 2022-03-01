@@ -7,7 +7,7 @@ This is automation API test for endpoint [this url](https://skillacademy.com/api
 # Setting up and running tests
 
 * Open project as Maven Project in Eclipse, Intellij, or other IDE
-* Run ReqresTestAPI.java file using TestNG. The directory file:
+* Run TestAPI.java file using TestNG. The directory file:
 ```
 {YourProjectPath}/src/test/java/apiTestRunner
 ```
